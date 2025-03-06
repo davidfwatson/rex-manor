@@ -1,0 +1,8 @@
+baseURL = "https://rex-manor.github.io/"
+languageCode = "en-us"
+title = "Rex Manor"
+theme = "ananke"
+pluralize = true
+[Params]
+  DateFormat = "2006-01-02"
+  publishDir = "docs"
