@@ -25,6 +25,8 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+      - name: Download theme
+        run: git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
       - name: Build
         run: hugo --minify
       - name: Upload artifact
