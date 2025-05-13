@@ -20,3 +20,6 @@ Gemfile.lock
 .hugo_build.lock
 .DS_Store
 public/
+resources/
+my-hugo-site/public/
+my-hugo-site/resources/
