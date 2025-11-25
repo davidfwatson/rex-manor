@@ -23,3 +23,5 @@ public/
 resources/
 my-hugo-site/public/
 my-hugo-site/resources/
+docs/
+hugo.log
