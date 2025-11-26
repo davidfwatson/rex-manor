@@ -12,17 +12,17 @@
 
 [[main]]
   name = "Home"
-  pageRef = "/"
+  url = "/"
   weight = 10
 
 [[main]]
   name = "About"
-  pageRef = "about"
+  url = "/about/"
   weight = 20
 
 [[main]]
   name = "Community"
-  pageRef = "community"
+  url = "/community/"
   weight = 30
 
 #[[main]]
