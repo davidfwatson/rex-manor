@@ -1,0 +1,19 @@
+[Unit]
+Description=Rex Manor Hugo Deployment Webhook
+After=network.target
+
+[Service]
+Type=simple
+User=david
+WorkingDirectory=/home/david/webserver/rex-manor
+Environment="WEBHOOK_SECRET=499cb4dbafc2c49fe745d13a3682cf4c80a816178c7efd7ad3f8b1da4fb7fd0d"
+ExecStart=/home/david/webserver/rex-manor/webhook/venv/bin/python /home/david/webserver/rex-manor/webhook/deploy.py
+Restart=always
+RestartSec=10
+
+# Logging
+StandardOutput=append:/home/david/webserver/rex-manor/webhook/deploy.log
+StandardError=append:/home/david/webserver/rex-manor/webhook/deploy.log
+
+[Install]
+WantedBy=multi-user.target
