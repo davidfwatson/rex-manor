@@ -28,7 +28,7 @@ Rex Manor is home to two schools that share a campus in the center of the neighb
     *   **Annual BBQ / Block Party:** Often held in the summer (June/July).
     *   **Movie Nights:** "Free Movie Night at Stevenson Park" is a popular recurring event (e.g., featuring family-friendly films like *Despicable Me*).
     *   **Communication:** There is an active Google Group (`rex-manor-neighbors`) used for lost-and-found, event planning, and safety alerts.
-*   **Leadership:** Historically, Lawrence Shing has been a key contact/chair for the association.
+*   **Leadership:** Wayne Watson is the head of the association.
 
 ### Nearby Amenities
 
