@@ -19,7 +19,7 @@ replyByEmail = false
 # robots = ""
 
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
@@ -43,8 +43,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "rex-manor-drone-drawing.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
