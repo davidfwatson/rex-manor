@@ -31,6 +31,6 @@ Rex Manor is home to two schools that share a campus in the center of the neighb
 
 ### Nearby Amenities
 
-*   **Shopping:** Residents have easy access to **Shoreline West** (Shoreline Blvd) and **Monta Loma Plaza** (across Rengstorff Ave), which feature grocery stores, coffee shops (Starbucks), and other retail conveniences.
+*   **Shopping:** Residents have easy access to **Bailey Park Plaza** (Shoreline Blvd) and **Monta Loma Plaza** (across Rengstorff Ave), which feature grocery stores, coffee shops (Starbucks), and other retail conveniences.
 *   **Transit:** Easy access to the [Mountain View Transit Center](https://www.caltrain.com/station/mountain-view) (via bike or short drive), serving both **Caltrain** and [VTA Light Rail](https://www.vta.org/go/vta-light-rail-stations), plus the **Central Expressway** for commuters.
 *   **Tech:** Close proximity to the Googleplex and Microsoft campuses.
