@@ -15,7 +15,7 @@ As we settle into the festive season, there are plenty of events happening right
 *   **[The Snow Queen](https://www.bayerballet.com/)** by Bayer Ballet will be performed on **December 19 – 20**.
 *   **[17th Annual South Bay Holiday Gospel Concert](https://tickets.mvcpa.com/eventperformances.asp?evt=708)** by the Oakland Interfaith Gospel Choir is on **December 21**.
 
-Also, if you were up early this morning (Saturday, Dec 6), you might have caught **"When Santa was a Baby"**!
+In other community news, the Mountain View Chamber of Commerce is hosting their annual **[Jingle & Mingle Holiday Party](https://www.chambermv.org/events)** on Monday, **December 8**. It's a great opportunity to connect with local business owners and fellow residents.
 
 I hope you all have a wonderful holiday season. Let's keep the community spirit strong!
 
