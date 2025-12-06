@@ -1,0 +1,13 @@
+/* Custom CSS to fix missing Tailwind classes */
+
+.h-\[1000px\] {
+  height: 1000px;
+}
+
+.dark .dark\:block {
+  display: block;
+}
+
+.dark .dark\:hidden {
+  display: none;
+}
