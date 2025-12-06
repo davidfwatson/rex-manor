@@ -25,6 +25,11 @@
   url = "/community/"
   weight = 30
 
+[[main]]
+  name = "News"
+  url = "/news/"
+  weight = 40
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
