@@ -15,7 +15,7 @@ As we settle into the festive season, there are plenty of events happening right
 *   **[The Snow Queen](https://www.bayerballet.com/)** by Bayer Ballet will be performed on **December 19 – 20**.
 *   **[17th Annual South Bay Holiday Gospel Concert](https://tickets.mvcpa.com/eventperformances.asp?evt=708)** by the Oakland Interfaith Gospel Choir is on **December 21**.
 
-In other community news, the Mountain View Chamber of Commerce is hosting their annual **[Jingle & Mingle Holiday Party](https://www.chambermv.org/events)** on Monday, **December 8**. It's a great opportunity to connect with local business owners and fellow residents.
+In other community news, the **[Community Tree Lighting Celebration](https://www.mountainview.gov/whats-happening/events)** will take place on Monday, **December 8** from 5:30 p.m. to 8:00 p.m. at the Civic Center Plaza. Additionally, the City is currently seeking input on a new **[Dark Sky Ordinance](https://www.mountainview.gov/DarkSky)** to help reduce light pollution and protect local wildlife; you can fill out the online survey through December 10.
 
 I hope you all have a wonderful holiday season. Let's keep the community spirit strong!
 
