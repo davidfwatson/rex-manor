@@ -24,6 +24,13 @@ To use this website, you need to have Hugo installed on your system.
 3.  Customize the configuration files.
 4.  Run `hugo server`.
 
+## Deployment Workflow
+
+This project uses GitHub Actions for deployment:
+
+1. **Create a PR** - Push your branch and create a pull request. This automatically deploys to **staging**.
+2. **Merge to main** - Once the PR is merged, the changes are automatically deployed to **production**.
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request.
