@@ -31,6 +31,6 @@ Rex Manor is home to two schools that share a campus in the center of the neighb
 
 ### Nearby Amenities
 
-*   **Shopping:** The closest [Safeway](https://local.safeway.com/safeway/ca/mountain-view/570-n-shoreline-blvd.html) is located on Shoreline Blvd. Monta Loma Plaza (Starbucks) is also nearby, just across Middlefield Road.
-*   **Transit:** Easy access to the [Mountain View Caltrain](https://www.caltrain.com/station/mountain-view) station (via bike or short drive), which also connects to [VTA Light Rail](https://www.vta.org/go/vta-light-rail-stations), and the **Central Expressway** for commuters.
+*   **Shopping:** The closest [Safeway](https://local.safeway.com/safeway/ca/mountain-view/570-n-shoreline-blvd.html) is located on Shoreline Blvd. Monta Loma Plaza (Starbucks) is also nearby, just across Rengstorff Avenue.
+*   **Transit:** Easy access to the [Mountain View Transit Center](https://www.caltrain.com/station/mountain-view) (via bike or short drive), serving both **Caltrain** and [VTA Light Rail](https://www.vta.org/go/vta-light-rail-stations), plus the **Central Expressway** for commuters.
 *   **Tech:** Close proximity to the Googleplex and Microsoft campuses.
