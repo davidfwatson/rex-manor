@@ -10,9 +10,7 @@ I hope everyone had a wonderful holiday season and is ready for a fantastic 2026
 
 ## From the Neighborhood
 
-Over on the [Rex Manor Google Group](https://groups.google.com/g/rex-manor-neighbors), there’s been some great discussion lately. I saw a thread about saving Mountain View's historic downtown—it's wonderful to see such passion for our city's character. While change is inevitable and often brings exciting new opportunities, honoring our roots is just as important.
-
-Also, a quick reminder about the **Dark Sky Ordinance** survey mentioned in recent threads. If you haven't yet, it's worth taking a look at how we can balance safety with preserving our night sky.
+Over on the [Rex Manor Google Group](https://groups.google.com/g/rex-manor-neighbors), there’s been some great discussion lately. A quick reminder about the **Dark Sky Ordinance** survey mentioned in recent threads. If you haven't yet, it's worth taking a look at how we can balance safety with preserving our night sky.
 
 ## Upcoming Events
 
