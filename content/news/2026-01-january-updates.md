@@ -14,7 +14,7 @@ Over on the [Rex Manor Google Group](https://groups.google.com/g/rex-manor-neigh
 
 ## Upcoming Events
 
-For those looking to get out and about in January, we have some excellent local events, especially for the tech-curious among us!
+For those looking to get out and about in January, we have some excellent local events to check out!
 
 ### Read Me: The Books that Inspired the Computing Revolution
 *   **When:** Tuesday, January 20, 2026, 7:00 PM
@@ -22,19 +22,19 @@ For those looking to get out and about in January, we have some excellent local 
 *   **Details:** Join historian W. Patrick McCray for a fireside chat about the influential books that shaped the computing world. From *Cybernetics* to *DOS for Dummies*, discover how literature has fueled the tech industry we know and love today. It’s a perfect event for anyone interested in the intersection of culture and technology.
 *   **[Get Tickets Here](https://www.eventbrite.com/e/read-me-tickets-1978629591371)**
 
-### Google Visitor Experience
-If you haven't checked out the [Google Visitor Experience](https://visit.withgoogle.com/) yet, the new year is a great time to do so. Located right here in Mountain View, it’s a vibrant space open to everyone.
-*   **The Huddle:** Offers community events and workshops.
-*   **The Cafe:** A great spot to grab a bite with local, seasonal ingredients.
-*   **The Plaza:** A nice outdoor space to enjoy the crisp January air.
-Check their [events calendar](https://visit.withgoogle.com/events/) for the latest specific dates on workshops and gatherings.
+### The Adventures of Pinocchio
+*   **When:** Saturday, January 17, 2026, 11:30 AM & 1:30 PM
+*   **Where:** MVCPA SecondStage, 500 Castro St.
+*   **Details:** Peninsula Youth Theatre presents a world-premiere adaptation of *The Adventures of Pinocchio*. It’s a great outing for families, featuring familiar characters like Geppetto and the Cricket. The show is about an hour long and appropriate for all ages.
+*   **[More Info & Tickets](https://tickets.mvcpa.com/eventperformances.asp?evt=693)**
 
-## Community Notes
+### Hershey Felder: The Piano and Me
+*   **When:** Starts January 17, 2026 (Runs through Jan 24)
+*   **Where:** Mountain View Center for the Performing Arts, 500 Castro St.
+*   **Details:** TheatreWorks Silicon Valley presents Hershey Felder in a unique performance combining his virtuoso piano skills with personal stories. A wonderful cultural evening right in our downtown.
+*   **[Get Tickets](https://tickets.mvcpa.com/)**
 
-*   **Downtown:** As always, our downtown area on Castro Street is a lively hub. Whether you're grabbing dinner or just walking around, supporting our local businesses is a great way to keep Mountain View thriving.
-*   **Rex Manor Park:** A friendly reminder that our local "tot lot" is a shared space. Let's keep it clean and welcoming for all the families and kids who enjoy it.
-
-Here’s to a prosperous and tech-positive 2026 for Rex Manor and all of Mountain View!
+Here’s to a prosperous and exciting 2026 for Rex Manor and all of Mountain View!
 
 Warmly,
 
