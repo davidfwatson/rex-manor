@@ -1,6 +1,6 @@
 ---
 title: "Kicking Off 2026 in Rex Manor"
-date: 2026-01-02
+date: 2026-01-01
 summary: "A look at upcoming events in Mountain View for January 2026, including museum free days, theater performances, and city updates."
 ---
 
@@ -20,14 +20,13 @@ The [Mountain View Center for the Performing Arts](https://www.mvcpa.com/) has a
 *   **For the Kids:** The Peninsula Youth Theatre presents **"The Adventures of Pinocchio"** on **January 17**. This is perfect for a family outing.
 *   **TheatreWorks:** Starting **January 17**, catch **"Hershey Felder: The Piano and Me."** Felder is a phenomenal performer, and this show tells the story behind his thousands of performances. It runs through late January, so there are plenty of chances to see it.
 
-### Google Visitor Experience Update
-Our friends at Google are doing some maintenance to keep the [Google Visitor Experience](https://visit.withgoogle.com/) top-notch.
-*   **The Plaza** will be closed from **January 20 to February 2** for updates.
-*   **Huddle, Cafe, & Pop-Up Shop** will be closed from **January 25 to January 30**.
-*   **The Google Store** remains open on its regular schedule, so you can still stop by to check out the latest gadgets. It's great to see continued investment in these public spaces that we all get to enjoy.
-
 ### City Services
-Just a quick reminder that most **City of Mountain View offices** have reopened as of today, **January 2**, following the holiday closure. Emergency services, of course, remained active throughout the break.
+Just a reminder that the New Year’s holiday schedule affects our trash collection. Since New Year's Day (Jan 1) fell on a Thursday, **collection service is delayed by one day for the rest of the week**.
+
+*   If your regular collection day is **Thursday**, your bins will be picked up on **Friday, Jan 2**.
+*   If your regular collection day is **Friday**, your bins will be picked up on **Saturday, Jan 3**.
+
+Regular schedules resume next week. Also, keep in mind that **City of Mountain View offices** have reopened as of Friday, January 2, following the holiday closure.
 
 ### Stay Connected
 Finally, if you haven't already, please make sure to check in on the **rex-manor-neighbors** Google Group. It’s the best place to jump into lively discussions about our neighborhood and stay in the loop on spontaneous gatherings or topics that might not make it to the blog.
