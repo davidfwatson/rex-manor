@@ -2,7 +2,7 @@
 title: "Mid-January Update: Events & Schedules"
 date: 2026-01-17T09:00:00-08:00
 draft: false
-summary: "Updates on MLK Day city services, upcoming tech events at Hacker Dojo and Computer History Museum, and cultural events at MVCPA."
+summary: "Updates on MLK Day city services, upcoming tech events at the Computer History Museum, and cultural events at MVCPA."
 ---
 
 Happy Saturday, Rex Manor!
@@ -15,10 +15,7 @@ A quick reminder that this Monday, January 19th, is Martin Luther King Jr. Day. 
 
 ## Community & Tech Events
 
-We are fortunate to have two incredible hubs of innovation right in our backyard.
-
-**[Hacker Dojo](https://hackerdojo.com/)** (Maude Ave) is hosting some fantastic events to close out the month:
-*   **[Project Jam](https://hackerdojo.com/events/)** – Saturday, Jan 31 at 1:00 PM. Bring your personal coding or hardware projects and work alongside other local makers.
+We are fortunate to have incredible hubs of innovation right in our backyard.
 
 Just down the road, the **[Computer History Museum](https://computerhistory.org/)** has a busy schedule:
 *   **Special Holiday Hours** – The museum will be **OPEN** this Monday, Jan 19 (MLK Day) from 10 a.m. to 5 p.m., a rare Monday opening!
