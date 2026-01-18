@@ -18,7 +18,6 @@ A quick reminder that this Monday, January 19th, is Martin Luther King Jr. Day. 
 We are fortunate to have two incredible hubs of innovation right in our backyard.
 
 **Hacker Dojo** (Maude Ave) is hosting some fantastic events to close out the month:
-*   **Cloud Security Meetup** – Thursday, Jan 29 at 6:00 PM. A great opportunity for professionals to discuss the latest in cloud infrastructure.
 *   **Project Jam** – Saturday, Jan 31 at 1:00 PM. Bring your personal coding or hardware projects and work alongside other local makers.
 
 Just down the road, the **Computer History Museum** has a busy schedule:
