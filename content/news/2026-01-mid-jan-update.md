@@ -17,22 +17,22 @@ A quick reminder that this Monday, January 19th, is Martin Luther King Jr. Day. 
 
 We are fortunate to have two incredible hubs of innovation right in our backyard.
 
-**Hacker Dojo** (Maude Ave) is hosting some fantastic events to close out the month:
-*   **Project Jam** – Saturday, Jan 31 at 1:00 PM. Bring your personal coding or hardware projects and work alongside other local makers.
+**[Hacker Dojo](https://hackerdojo.com/)** (Maude Ave) is hosting some fantastic events to close out the month:
+*   **[Project Jam](https://hackerdojo.com/events/)** – Saturday, Jan 31 at 1:00 PM. Bring your personal coding or hardware projects and work alongside other local makers.
 
-Just down the road, the **Computer History Museum** has a busy schedule:
+Just down the road, the **[Computer History Museum](https://computerhistory.org/)** has a busy schedule:
 *   **Special Holiday Hours** – The museum will be **OPEN** this Monday, Jan 19 (MLK Day) from 10 a.m. to 5 p.m., a rare Monday opening!
-*   **"Read Me"** – Tuesday, Jan 20 at 7:00 PM. A CHM Live event exploring the stories behind the code.
-*   **"Algorithms of Love"** – Wednesday, Feb 4 at 7:00 PM. A look at how technology intersects with human connection, just in time for Valentine's season.
+*   **["Read Me"](https://computerhistory.org/events/)** – Tuesday, Jan 20 at 7:00 PM. A CHM Live event exploring the stories behind the code.
+*   **["Algorithms of Love"](https://computerhistory.org/events/)** – Wednesday, Feb 4 at 7:00 PM. A look at how technology intersects with human connection, just in time for Valentine's season.
 
 Supporting these local institutions helps keep our city at the forefront of the tech world!
 
 ## Arts & Culture
 
-Over at the **Mountain View Center for the Performing Arts**, there are a few treats coming up:
+Over at the **[Mountain View Center for the Performing Arts](https://www.mvcpa.com)**, there are a few treats coming up:
 
-*   **"The Snow Queen"** by Peninsula Youth Theatre continues its run through this weekend.
-*   **Hershey Felder as George Gershwin Alone** opens later next week. This is a highly acclaimed show and a great excuse for a night out downtown.
+*   **["The Snow Queen"](https://www.mvcpa.com/events-tickets)** by Peninsula Youth Theatre continues its run through this weekend.
+*   **[Hershey Felder as George Gershwin Alone](https://www.mvcpa.com/events-tickets)** opens later next week. This is a highly acclaimed show and a great excuse for a night out downtown.
 
 For tickets and times, check the [MVCPA website](https://www.mvcpa.com).
 
