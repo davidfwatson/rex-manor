@@ -28,8 +28,8 @@ Supporting these local institutions helps keep our city at the forefront of the 
 
 Over at the **[Mountain View Center for the Performing Arts](https://www.mvcpa.com)**, there are a few treats coming up:
 
-*   **["The Snow Queen"](https://www.mvcpa.com/events-tickets)** by Peninsula Youth Theatre continues its run through this weekend.
-*   **[Hershey Felder as George Gershwin Alone](https://www.mvcpa.com/events-tickets)** opens later next week. This is a highly acclaimed show and a great excuse for a night out downtown.
+*   **["The Snow Queen"](https://tickets.mvcpa.com/eventperformances.asp?evt=723)** by Peninsula Youth Theatre continues its run through this weekend.
+*   **[Hershey Felder as George Gershwin Alone](https://theatreworks.org/mainstage/hf-piano-and-me/)** opens later next week. This is a highly acclaimed show and a great excuse for a night out downtown.
 
 For tickets and times, check the [MVCPA website](https://www.mvcpa.com).
 
