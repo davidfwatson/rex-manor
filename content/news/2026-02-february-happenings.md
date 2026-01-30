@@ -17,7 +17,10 @@ Our neighborhood's proximity to the [Computer History Museum](https://computerhi
 ### Community News: Parks Strategic Plan
 There is an important discussion happening on the **rex-manor-neighbors** Google Group regarding the **Updated Draft Parks and Recreation Strategic Plan**, which was released for review in late January.
 
-This is a key moment to have your voice heard concerning the future of our local green spaces, including our very own **Rex Manor Park** (the "tot lot"). I encourage everyone to check the Google Group for the link to the plan and share your feedback. Engaging with these city initiatives is how we ensure our neighborhood amenities continue to thrive and evolve.
+This is a key moment to have your voice heard concerning the future of our local green spaces, including our very own **Rex Manor Park** (the "tot lot"). You can view the full plan and provide your input directly at **[ImagineMVParks.com](https://imaginemvparks.com/)**. I encourage everyone to check the Google Group for the discussion and share your feedback. Engaging with these city initiatives is how we ensure our neighborhood amenities continue to thrive and evolve.
+
+### Downtown Vibes: Support Local Innovation
+If you haven't been downtown recently, it's always worth a stroll to check out the rotating selection of pop-up shops and new businesses. The character of our downtown is always evolving, and these small, often temporary storefronts bring fresh energy and innovation to our city center. Whether it's a new artisanal maker or a tech-forward retail concept, giving them a visit is a great way to support the dynamic growth of Mountain View.
 
 ### City Services: President's Day
 Looking ahead, **Monday, February 16** is President's Day.
