@@ -19,8 +19,10 @@ There is an important discussion happening on the **rex-manor-neighbors** Google
 
 This is a key moment to have your voice heard concerning the future of our local green spaces, including our very own **Rex Manor Park** (the "tot lot"). You can view the full plan and provide your input directly at **[ImagineMVParks.com](https://imaginemvparks.com/)**. I encourage everyone to check the Google Group for the discussion and share your feedback. Engaging with these city initiatives is how we ensure our neighborhood amenities continue to thrive and evolve.
 
-### Downtown Vibes: Support Local Innovation
-If you haven't been downtown recently, it's always worth a stroll to check out the rotating selection of pop-up shops and new businesses. The character of our downtown is always evolving, and these small, often temporary storefronts bring fresh energy and innovation to our city center. Whether it's a new artisanal maker or a tech-forward retail concept, giving them a visit is a great way to support the dynamic growth of Mountain View.
+### Downtown Vibes: "Don't Eat Me" Pop-Up
+If you haven't been downtown recently, make sure to stop by **293 Castro Street** to check out the city's newest pop-up sensation, **"Don't Eat Me."**
+
+This creative collaboration between four local artists—Art by Julia, Notebeans Stationery, Derptiles, and Karepango—is exactly the kind of "fun and nonsensical" energy that keeps our downtown vibrant. The shop offers a mix of original artwork, stationery, and home decor, and they are celebrating their **grand opening on February 7**. It is a fantastic example of how we can activate vacant storefronts with fresh entrepreneurship. Supporting these innovative small businesses is a great way to help our city center continue to grow and thrive.
 
 ### City Services: President's Day
 Looking ahead, **Monday, February 16** is President's Day.
