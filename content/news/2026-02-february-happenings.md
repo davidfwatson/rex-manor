@@ -22,7 +22,7 @@ This is a key moment to have your voice heard concerning the future of our local
 ### Downtown Vibes: "Don't Eat Me" Pop-Up
 If you haven't been downtown recently, make sure to stop by **293 Castro Street** to check out the city's newest pop-up sensation, **"Don't Eat Me."**
 
-This creative collaboration between four local artists—Art by Julia, Notebeans Stationery, Derptiles, and Karepango—is exactly the kind of "fun and nonsensical" energy that keeps our downtown vibrant. The shop offers a mix of original artwork, stationery, and home decor, and they are celebrating their **grand opening on February 7**. It is a fantastic example of how we can activate vacant storefronts with fresh entrepreneurship. Supporting these innovative small businesses is a great way to help our city center continue to grow and thrive.
+This creative collaboration between four local artists—Art by Julia, Notebeans Stationery, Derptiles, and Karepango—is exactly the kind of "fun and nonsensical" energy that keeps our downtown vibrant. The shop offers a mix of original artwork, stationery, and home decor, and they are celebrating their **grand opening on February 7**. It is a fantastic example of how we can activate vacant storefronts with fresh entrepreneurship. Supporting these innovative small businesses is a great way to help our city center continue to grow and thrive. You can read more about this exciting new program in the [Mountain View Voice](https://www.mv-voice.com/mountain-view/2026/01/29/mountain-view-launches-pop-up-program-to-address-commercial-vacancies-downtown/).
 
 ### City Services: President's Day
 Looking ahead, **Monday, February 16** is President's Day.
