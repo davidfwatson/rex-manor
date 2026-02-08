@@ -16,7 +16,9 @@ On **Wednesday, March 11, 2026 at 7:00 PM**, CHM will be hosting a special event
 
 ### Spring Forward: Daylight Saving Time
 
-Don't forget to mark your calendars (or set your smart home devices)! **Daylight Saving Time begins on Sunday, March 8, 2026**.
+**Daylight Saving Time begins on Sunday, March 8, 2026**.
+
+I rely so much on my phone and watch to update themselves that I sometimes don't even notice the time change—until I'm confused why it's still so dark outside despite getting out of bed at my usual time!
 
 While losing an hour of sleep is never fun, the trade-off is more evening sunlight to enjoy walks around the neighborhood or visits to **Rex Manor Park**. It’s a sure sign that spring—and warmer weather—is on its way.
 
