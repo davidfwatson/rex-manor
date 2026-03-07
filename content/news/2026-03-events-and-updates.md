@@ -1,7 +1,7 @@
 ---
-title: "March in Mountain View: TechFest, Arts, and Our Final Block Party"
+title: "March in Mountain View: TechFest, Arts, and Block Party Planning"
 date: 2026-03-07
-summary: "March is packed with exciting local events, from TechFest at the CHM to the Newsies musical at MVCPA, plus an important update on our neighborhood block party."
+summary: "March is packed with exciting local events, from TechFest at the CHM to the Newsies musical at MVCPA, plus an important update on our neighborhood block party planning."
 ---
 
 Hello neighbors,
@@ -26,11 +26,11 @@ If you are looking for some fantastic local entertainment, the musical **"Newsie
 
 For those wanting to enjoy the outdoors, **Deer Hollow Farm** tours are available in March 2026. Nestled in our beautiful local open spaces, these tours offer a great way to learn about local agriculture and nature. You can find more information about exploring our parks and open spaces on the [City of Mountain View website](https://mountainview.gov/).
 
-### Neighborhood Update: The Final Block Party
+### Neighborhood Update: Block Party Planning
 
-Lastly, as many of you have seen discussed on the [rex-manor-neighbors Google Group](https://groups.google.com/g/rex-manor-neighbors), we have an official date for our annual neighborhood gathering. Please mark your calendars: our **Final Neighborhood Block Party** will be held on **Sunday, June 7, 2026**.
+Lastly, as many of you have seen discussed on the [rex-manor-neighbors Google Group](https://groups.google.com/g/rex-manor-neighbors), we have an official date for our annual neighborhood gathering! Please mark your calendars: our **Neighborhood Block Party** will be held on **Sunday, June 7, 2026**.
 
-While it is bittersweet that this will be the last of these specific block parties, we are looking forward to making it the best one yet. Please continue to check the Google Group for updates on planning and volunteer opportunities.
+Block party planning has officially begun, and we are looking forward to making this a fantastic event for everyone. Please continue to check the Google Group for updates on planning and volunteer opportunities.
 
 Have a fantastic March!
 
