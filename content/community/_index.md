@@ -23,7 +23,7 @@ Rex Manor is home to two schools that share a campus in the center of the neighb
 
 ### Neighborhood Life
 
-*   **Neighborhood Association:** The **Rex Manor Neighborhood Association (RMNA)** is active and recognized by the City of Mountain View (often a recipient of the City's Neighborhood Grant Program). Wayne Watson is the current President.
+*   **Neighborhood Association:** The **Rex Manor Neighborhood Association (RMNA)** is active and recognized by the City of Mountain View (often a recipient of the City's Neighborhood Grant Program). David Watson is the current President. Residents can email David at [david@rexmanor.org](mailto:david@rexmanor.org) with neighborhood announcements or requests to add content to the website.
 *   **Typical Events:**
     *   **Annual BBQ / Block Party:** Organized by the RMNA, often held in the summer (June/July).
     *   **Movie Nights:** "Free Movie Night at Stevenson Park" is a popular recurring event (e.g., featuring family-friendly films like *Despicable Me*). *Note: While popular with residents, these are not run by the RMNA.*
