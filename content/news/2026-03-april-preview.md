@@ -20,7 +20,7 @@ Our local tech community continues to be a driving force of creativity and conne
 
 ### Neighborhood Life
 
-It has been wonderful to see so many families and athletes out recently for the girls softball tournament over at [Stevenson Baseball Field](https://mountain-view-softball-mvaa.sportngin.com/). It’s always great to see our local parks full of energy and friendly competition. Whether you have a child playing or just want to enjoy the atmosphere, it's a great reason to get outside and support our local youth sports.
+It has been wonderful to see so many families and athletes out recently for the girls softball tournament over at [Stevenson Baseball Field](https://www.mvlags.org/). It’s always great to see our local parks full of energy and friendly competition. Whether you have a child playing or just want to enjoy the atmosphere, it's a great reason to get outside and support our local youth sports.
 
 Have a wonderful rest of your March, and I hope to see you around the neighborhood!
 
