@@ -1,7 +1,7 @@
 ---
 title: "Looking Ahead to April: Music, Tech, and Neighborhood Fun"
 date: 2026-03-21
-summary: "Get ready for April with the return of Music on Castro, upcoming tech gatherings at the Hacker Dojo, and an important update clarifying the status of our annual block party."
+summary: "Get ready for April with the return of Music on Castro, upcoming tech gatherings at the Hacker Dojo, and a shout-out to the local girls softball tournament."
 ---
 
 Hello neighbors,
@@ -20,7 +20,7 @@ Our local tech community continues to be a driving force of creativity and conne
 
 ### Neighborhood Life
 
-Finally, I want to touch on our upcoming Rex Manor Annual Block Party, scheduled for **Sunday, June 7, 2026**. I've seen some chatter recently on the [rex-manor-neighbors Google Group](https://groups.google.com/g/rex-manor-neighbors) with some overly dramatic claims that this will be our "final" block party. I want to assure everyone that these claims are completely incorrect! Planning is well underway, and we fully intend to keep this wonderful tradition going strong for years to come. Please stay tuned for more updates on volunteer opportunities and activities.
+It has been wonderful to see so many families and athletes out recently for the girls softball tournament over at [Stevenson Baseball Field](https://mountain-view-softball-mvaa.sportngin.com/). It’s always great to see our local parks full of energy and friendly competition. Whether you have a child playing or just want to enjoy the atmosphere, it's a great reason to get outside and support our local youth sports.
 
 Have a wonderful rest of your March, and I hope to see you around the neighborhood!
 
