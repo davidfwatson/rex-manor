@@ -11,7 +11,7 @@ date: 2023-10-26
 *   **Rex Manor Park:** (Farley St & Central Expressway)
     *   A smaller, quieter "pocket park" in the south west corner, commonly known as the "tot lot".
     *   **Features:** Ideal for younger children or a quiet reading spot.
-    *   **Trivia:** Sits atop the Hetch Hetchy water pipeline that supplies water to the entire peninsula.
+    *   **Trivia:** Sits atop the [Hetch Hetchy](https://en.wikipedia.org/wiki/Hetch_Hetchy) water pipeline that supplies water to the entire peninsula.
 *   **School Grounds:** Residents often utilize the open spaces at [Theuerkauf Elementary](https://theuerkauf.mvwsd.org/) and [Stevenson Elementary](https://stevenson.mvwsd.org/) after hours.
 
 ### Schools
