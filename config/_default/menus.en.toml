@@ -30,6 +30,11 @@
   url = "/news/"
   weight = 40
 
+[[main]]
+  name = "Join"
+  url = "/join/"
+  weight = 50
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"

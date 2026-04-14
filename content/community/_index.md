@@ -27,7 +27,7 @@ Rex Manor is home to two schools that share a campus in the center of the neighb
 *   **Typical Events:**
     *   **Annual BBQ / Block Party:** Organized by the RMNA, often held in the summer (June/July).
     *   **Movie Nights:** "Free Movie Night at Stevenson Park" is a popular recurring event (e.g., featuring family-friendly films like *Despicable Me*). *Note: While popular with residents, these are not run by the RMNA.*
-    *   **Communication:** There is an active Google Group (`rex-manor-neighbors`) used for lost-and-found, event planning, and safety alerts.
+    *   **Communication:** There is an active Google Group (`rex-manor-neighbors`) used for lost-and-found, event planning, and safety alerts. [Join the mailing list](/join/) to stay in the loop.
 
 ### Nearby Amenities
 

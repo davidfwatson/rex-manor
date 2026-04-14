@@ -13,12 +13,9 @@ Last year's block party: **Sunday, June 22, 2025, 12pm-4pm** (a week later than 
 - **~June 8, 2026**: Watson family leaving town
 - **June 21, 2026**: Father's Day — avoid this weekend
 
-### Proposed Options
+### Confirmed Date
 
-Ask neighbors about moving the block party to one of:
-
-1. **Sunday, June 7** — right after school ends, before Watsons leave
-2. **~Sunday, June 28** — after Watsons return
+**Weekend of June 6-7, 2026** (confirmed with Wayne, exact day TBD — Saturday or Sunday)
 
 ### June 7th Conflict Check
 
@@ -27,6 +24,4 @@ Ask neighbors about moving the block party to one of:
 - **Shoreline concerts**: Pitbull & Lil Jon on June 7. Irrelevant — nobody is driving to a block party.
 - **Western Ballet**: David's daughter performs that day. This is a David problem, not a neighborhood problem. Manageable.
 
-**June 7th looks like the best option** — no major neighborhood-level conflicts.
-
-Need to float both options with the group and see what works for the most people.
+**June 7th confirmed** — no major neighborhood-level conflicts.

@@ -10,7 +10,7 @@ Rex Manor is centrally located in Mountain View, making it highly walkable and b
 *   **North:** West Middlefield Road
 *   **East:** South Shoreline Boulevard
 *   **South:** Central Expressway
-*   **West:** Farley Street
+*   **West:** Permanente Creek
 
 A defining feature of Rex Manor is that it has almost no "through streets" that cut all the way from one side to the other. This design, along with numerous traffic circles, keeps streets quiet and safe for walking.
 
