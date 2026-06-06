@@ -25,8 +25,6 @@ A few friendly suggestions to make the day even better:
 * If you can, **bring a dessert to share**.
 * **Bring a blanket** if you'd like to sit out on the lawn.
 
-There will also be live music to set the mood for the afternoon.
-
 **Fun for kids:** We've got a sidewalk chalk art contest, animal balloons, and bubbles to keep the little ones happily busy.
 
 ### Give Back: CSA Food Donations
