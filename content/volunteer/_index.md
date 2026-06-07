@@ -34,6 +34,11 @@ Just your name plus a phone number or email is enough. The "I can help with" box
     <label style="display:block;margin:.4rem 0;"><input type="checkbox" name="help" value="fliers" style="margin-right:.5rem;">Distribute fliers</label>
     <label style="display:block;margin:.4rem 0;"><input type="checkbox" name="help" value="teardown" style="margin-right:.5rem;">Tear down</label>
     <label style="display:block;margin:.4rem 0;"><input type="checkbox" name="help" value="pickup" style="margin-right:.5rem;">Pick up food day before</label>
+    <label style="display:block;margin:.4rem 0;"><input type="checkbox" name="help" value="foodprep" style="margin-right:.5rem;">Food prep day before</label>
+    <label style="display:block;margin:.4rem 0;"><input type="checkbox" name="help" value="other" style="margin-right:.5rem;">Other:
+      <input type="text" name="other_text" aria-label="Other — please specify" placeholder="please specify"
+             style="margin-left:.4rem;padding:.35rem .55rem;border:1px solid #cbd5e1;border-radius:.4rem;font-size:.95rem;">
+    </label>
   </fieldset>
 
   <button type="submit"
