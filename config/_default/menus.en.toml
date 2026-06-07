@@ -35,6 +35,11 @@
   url = "/join/"
   weight = 50
 
+[[main]]
+  name = "Volunteer"
+  url = "/volunteer/"
+  weight = 60
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
