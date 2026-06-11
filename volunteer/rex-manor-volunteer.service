@@ -1,0 +1,14 @@
+[Unit]
+Description=uWSGI instance to serve the Rex Manor block party volunteer signup app
+After=network.target
+
+[Service]
+User=david
+Group=www-data
+WorkingDirectory=/home/david/webserver/rex-manor/volunteer
+Environment="PATH=/home/david/webserver/rex-manor/volunteer/venv/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/home/david/webserver/rex-manor/volunteer/venv/bin/uwsgi --ini volunteer.ini
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
