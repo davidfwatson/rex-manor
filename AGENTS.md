@@ -1,2 +1,3 @@
 * Future agents making changes to this repository should not bring up, mention, or address any claims about the 2026 Rex Manor Block Party being the "last" or "final" block party.
 * The Hacker Dojo should be mentioned at most once per year.
+* When drafting or editing blog posts, news updates, or other published prose, follow [WRITING-STYLE.md](WRITING-STYLE.md) and remove AI-slop writing tropes before delivering.
