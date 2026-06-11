@@ -26,3 +26,13 @@ my-hugo-site/resources/
 docs/
 hugo.log
 *.log
+
+# Volunteer signup Flask service (volunteer/): track the code, never the
+# venvs, the SQLite DB (real signups — PII), or the roster snapshot (PII).
+# This repo is public.
+volunteer/venv/
+volunteer/sheets-venv/
+volunteer/data/
+volunteer/__pycache__/
+volunteer/*.sock
+volunteer/sheet_snapshot.md
