@@ -1,0 +1,115 @@
+name: PR Preview Reaper
+
+# Reconciliation backstop for the PR previews under
+# /home/david/webserver/rex-manor/public/pr-<PR>.v<run>/.
+#
+# Nothing else removes them: this repo has no close-time cleanup, so every
+# preview ever deployed stayed on the box. 53 dirs for closed PRs, going back
+# to 2025-12, were there on 2026-10-12, when the Linode root filesystem
+# reached 99%.
+#
+# So rather than trying to win the race, reconcile: periodically ask GitHub
+# which PRs are open and delete every preview that does not belong to one.
+# Ported from mvyimby's pr-preview-reap.yml.
+
+on:
+  schedule:
+    - cron: '17 9 * * *'   # daily, 09:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: pr-preview-reap
+  cancel-in-progress: false
+
+jobs:
+  reap:
+    name: Delete previews for PRs that are no longer open
+    runs-on: ubuntu-latest
+    steps:
+      - name: Collect open PR numbers
+        id: open
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          # Fails loudly rather than returning an empty list, which the server
+          # side would otherwise read as "nothing is open, reap everything".
+          json=$(gh pr list --repo "${{ github.repository }}" \
+                   --state open --limit 500 --json number)
+          nums=$(echo "$json" | jq -r '.[].number' | sort -n | tr '\n' ' ')
+          # gh stops at --limit without saying so, and a PR missing from this
+          # list has its preview reaped. At the limit, assume it was cut off.
+          if [ "$(echo "$nums" | wc -w)" -ge 500 ]; then
+            echo "::error::500 or more open PRs: the list may be truncated, refusing to reap"; exit 1
+          fi
+          echo "open PRs: ${nums:-<none>}"
+          echo "numbers=$nums" >> "$GITHUB_OUTPUT"
+
+      - name: Reap closed-PR previews
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.LINODE_SSH_KEY }}
+          OPEN_PRS: ${{ steps.open.outputs.numbers }}
+        run: |
+          set -euo pipefail
+
+          # Only ever send plain integers to the server.
+          for n in ${OPEN_PRS:-}; do
+            case "$n" in
+              ''|*[!0-9]*) echo "::error::non-numeric PR number '$n'"; exit 1 ;;
+            esac
+          done
+
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H podcast.davidfwatson.com >> ~/.ssh/known_hosts
+
+          # bash -s, not the login shell: david's shell on the Linode is zsh,
+          # which has no `shopt`.
+          ssh -o StrictHostKeyChecking=no david@podcast.davidfwatson.com \
+            "OPEN_PRS='$OPEN_PRS' bash -s" <<'REMOTE'
+          set -euo pipefail
+          shopt -s nullglob
+
+          PUB=/home/david/webserver/rex-manor/public
+          # Grace period: never reap a preview younger than this, so a deploy
+          # that is mid-rsync right now is not swept out from under itself.
+          GRACE_MIN=120
+
+          read -r -a OPEN <<< "${OPEN_PRS:-}"
+          is_open() {
+            local n="$1" o
+            for o in "${OPEN[@]:-}"; do [ "$o" = "$n" ] && return 0; done
+            return 1
+          }
+
+          kept=0; skipped_young=0; removed=0; freed=0
+          for d in "$PUB"/pr-*.v*; do
+            [ -d "$d" ] || continue
+            # Only exact preview names: the live site shares this directory.
+            # No leading zeros, so the number compares equal to what gh prints.
+            [[ "${d##*/}" =~ ^pr-[1-9][0-9]*\.v[0-9]+$ ]] || continue
+            base="${d##*/}"; n="${base#pr-}"; n="${n%%.*}"
+            if is_open "$n"; then
+              kept=$((kept + 1)); continue
+            fi
+            # Anything under it, not just the dir itself: rewriting a file in
+            # place leaves the directory's own mtime untouched.
+            if [ -n "$(find "$d" -mmin -$GRACE_MIN -print -quit)" ]; then
+              echo "grace  $base (modified in the last ${GRACE_MIN}m)"
+              skipped_young=$((skipped_young + 1)); continue
+            fi
+            kb=$(du -sk "$d" | cut -f1)
+            echo "reap   $base (${kb} KB, PR #$n not open)"
+            rm -rf -- "$d"
+            removed=$((removed + 1)); freed=$((freed + kb))
+          done
+
+          echo "---"
+          echo "kept $kept (open PRs), grace-skipped $skipped_young, reaped $removed ($((freed / 1024)) MB)"
+          df -h / | tail -1
+          REMOTE
