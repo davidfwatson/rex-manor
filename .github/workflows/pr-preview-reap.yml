@@ -96,7 +96,9 @@ jobs:
             if is_open "$n"; then
               kept=$((kept + 1)); continue
             fi
-            if [ -n "$(find "$d" -maxdepth 0 -mmin -$GRACE_MIN)" ]; then
+            # Anything under it, not just the dir itself: rewriting a file in
+            # place leaves the directory's own mtime untouched.
+            if [ -n "$(find "$d" -mmin -$GRACE_MIN -print -quit)" ]; then
               echo "grace  $base (modified in the last ${GRACE_MIN}m)"
               skipped_young=$((skipped_young + 1)); continue
             fi
