@@ -91,7 +91,8 @@ jobs:
           for d in "$PUB"/pr-*.v*; do
             [ -d "$d" ] || continue
             # Only exact preview names: the live site shares this directory.
-            [[ "${d##*/}" =~ ^pr-[0-9]+\.v[0-9]+$ ]] || continue
+            # No leading zeros, so the number compares equal to what gh prints.
+            [[ "${d##*/}" =~ ^pr-[1-9][0-9]*\.v[0-9]+$ ]] || continue
             base="${d##*/}"; n="${base#pr-}"; n="${n%%.*}"
             if is_open "$n"; then
               kept=$((kept + 1)); continue
